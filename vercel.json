@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "env": {
+    "MONGODB_URI": "@mongodb-uri-portfolio",
+    "ALPHA_VANTAGE_API_KEY": "@alpha-vantage-api"
+  },
+  "projectSettings": {
+    "sourceFilesOutsideRootDirectory": true
+  }
+}
